@@ -1,0 +1,47 @@
+﻿{
+  "cn":[
+    {
+      "imgUrl": "img/CN/1517560548.jpg",
+      "link": "index.html",
+      "text": "智能语音灯"
+    },
+    {
+      "imgUrl": "img/CN/1512548091.jpg",
+      "link": "index.html",
+      "text": "智能插座"
+    },
+    {
+      "imgUrl": "img/CN/1498556624.jpg",
+      "link": "index.html",
+      "text": "蘑菇灯"
+    },
+    {
+      "imgUrl": "img/CN/1512520492.jpg",
+      "href": "index.html",
+      "text": "琉璃灯"
+    }
+  ],
+  "en":[
+    {
+      "imgUrl": "img/EN/1498556699.jpg",
+      "link": "index.html",
+      "text": "智能语音灯"
+    },
+    {
+      "imgUrl": "img/EN/1512548006.jpg",
+      "link": "index.html",
+      "text": "智能插座"
+    },
+    {
+      "imgUrl": "img/EN/1498731051.jpg",
+      "link": "index.html",
+      "text": "蘑菇灯"
+    },
+    {
+      "imgUrl": "img/EN/1512548192.jpg",
+      "href": "index.html",
+      "text": "琉璃灯"
+    }
+  ]
+}
+

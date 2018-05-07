@@ -1,0 +1,112 @@
+﻿{
+  "cn":[
+    {
+      "id":10010,
+      "upperId":1001,
+      "UserHeaderUrl":"img/banner/header3.jpg",
+      "UserName":"W泰霖",
+      "Time":"01-02",
+      "SeeNumber":20,
+      "SeeTitle":"阅读",
+      "likeArticles":20,
+      "comment":4,
+      "title":"随心光控",
+      "content":"<p class='article_cont_text'>科技融于生活，手机远程，不在家也随意控制您的设备；只要手机可以连接因特网，就可以在任意的地方控制开关，即使离开家也可以随时查看是否忘记开关。</p><div class='article_cont_img'><img src='img/content/随心光控1.png' alt=''></div><p class='article_cont_text'>准时准点，方便快捷，想几点吃饭，几点洗澡，请轻轻一按，这些问题统统解决......</p><div class='article_cont_img'><img src='img/content/随心光控2.png' alt=''></div><p class='article_cont_text'>智能定时，无需好记性，便能合理规划用电时间</p><div class='article_cont_img'><img src='img/content/随心光控3.png' alt=''></div><p class='article_cont_text'>多人接入，分享智能；</p><div class='article_cont_img'><img src='img/content/随心光控4.png' alt=''></div>"
+    },
+    {
+      "id":10011,
+      "upperId":1002,
+      "UserHeaderUrl":"img/banner/header.jpeg",
+      "UserName":"kiyo_妍",
+      "Time":"01-02",
+      "SeeNumber":22,
+      "SeeTitle":"阅读",
+      "likeArticles":25,
+      "comment":5,
+      "title":"彩炫琉光不息 通达智慧运无边",
+      "content":"<p class='article_cont_text'>全新的灯效设计穿透灯罩上的精美图案，绽放光芒，蕴含于琉璃内的绚丽色彩，自在转动，呈现的艺术美感和想象空间，让你所处的环境和周边的气场从容恬静，心净其中，同时为你注入无尽的灵感和智慧，不通，不顺、不透，片刻即失。</p><div class='article_cont_img'><img src='img/content/凤凰于飞1.jpg' alt=''></div><p class='article_cont_text'>炫丽照运程，溢彩起流光，三千年工艺的琉璃所蕴含的玄妙特性，通过炫丽的光彩得以充分的暂放，生生不息的运转，时时不停的调试环境和气场</p><div class='article_cont_img'><img src='img/content/凤凰于飞2.jpg' alt=''></div><p class='article_cont_text'>常无欲以观奇妙，常有欲以观其微，心安静着神策生，虑深远则计谋成，智慧通达运无边；</p><div class='article_cont_img'><img src='img/content/凤凰于飞3.jpg' alt=''></div><p class='article_cont_text'>匠心之作，经受淬炼，放得佳品；选取千年琉璃和原木，十多道工序与细节，纯手工精细打磨，1400度高温烧制，一摸一品；</p><div class='article_cont_img'><img src='img/content/凤凰于飞4.jpg' alt=''></div><p class='article_cont_text'>WiFi快速接入技术，快速连接，便捷控制。自有专利随心光控技术：通过物理开关切换灯具场景，双击开关进行场景切换。<br>支持手机APP控制，APP兼容安卓与苹果系统。<br>亮度调节，色彩调节，支持1670万色彩变化。<br>可设置不同灯光效果（特效包括常亮、流光、呼吸、闪烁）<br>游戏互动，休闲益智<br>可设置定时和事件提醒<br>支持远程控制<br>支持群组控制，APP可同时控制多个智能琉璃灯<br>可同时被多个手机终端控制<br>支持STA和AP工作模式</p><div class='article_cont_img'><img src='img/content/凤凰于飞5.jpg' alt=''></div>"
+    },
+    {
+      "id":10013,
+      "upperId":1003,
+      "UserHeaderUrl":"img/banner/header5.jpg",
+      "UserName":"Moer浅小默",
+      "Time":"01-02",
+      "SeeNumber":25,
+      "SeeTitle":"阅读",
+      "likeArticles":30,
+      "comment":6,
+      "title":"千万次绽放 只为长情相伴",
+      "content":"<p class='article_cont_text'>将柔和的灯光与温恬的情感糅入，把炫丽的色彩渲染成家居生活的点缀，简洁清新的造型为空间锦上添花....</p><div class='article_cont_img'><img src='img/content/万卷辰星1.png' alt=''></div><p class='article_cont_text'>星辰 萤火 由你喜欢的方式赏玩，回家随手打开开关更贴近心的自由，出门远游，灯跟随你的喜悦传唤心情，这一刻让家人也感受你的情感；</p><div class='article_cont_img'><img src='img/content/万卷辰星2.png' alt=''></div><p class='article_cont_text'>变换的情景，不同的款型，一款智能有趣又漂亮的台灯也能给家里增添不少色彩，让小小的角落充满温馨与个性</p><div class='article_cont_img'><img src='img/content/万卷辰星1.png' alt=''></div><p class='article_cont_text'>LIGHT——调节亮度渐亮、最亮、渐暗、最暗（四个亮度档位）<br>COLOR——颜色短按改变颜色：按键每按一次颜色循环改变（红橙黄绿青蓝紫）<br>MODE——特效短按改变特效：每按键一次灯光效果循环改变（流光、呼吸、闪烁、常亮）<br>ON/OFF——电源开关双击切换场景：开灯、关灯长按至灯变成红黄绿交替，恢复出厂设置长按至灯变成绿色，切换成AP模式</p><div class='article_cont_img'><img src='img/content/万卷辰星4.png' alt=''></div>"
+    },
+    {
+      "id":10014,
+      "upperId":1004,
+      "UserHeaderUrl":"img/banner/header4.jpg",
+      "UserName":"RoyalDragon",
+      "Time":"01-02",
+      "SeeNumber":20,
+      "SeeTitle":"阅读",
+      "likeArticles":40,
+      "comment":3,
+      "title":"千万次绽放 只为长情相伴",
+      "content":"<p class='article_cont_text'>色彩流动，生生不息，环境心境，顺而流转</p><div class='article_cont_img'><img src='img/content/东方神韵1.png' alt=''></div><p class='article_cont_text'>炫彩变幻，愉悦舒畅，转变自我，智慧通达</p><div class='article_cont_img'><img src='img/content/东方神韵3.png' alt=''></div><p class='article_cont_text'>千万色彩，彩转不停，财源滚滚，伟业长青</p><div class='article_cont_img'><img src='img/content/东方神韵4.png' alt=''></div><p class='article_cont_text'>多光特效，流转万福，一番风顺，好运连连</p><div class='article_cont_img'><img src='img/content/东方神韵2.png' alt=''></div>"
+    }
+  ],
+  "en":[
+    {
+      "id":10010,
+      "upperId":1001,
+      "UserHeaderUrl":"img/banner/header3.jpg",
+      "UserName":"W泰霖",
+      "Time":"01-02",
+      "SeeNumber":20,
+      "SeeTitle":"Read",
+      "likeArticles":20,
+      "comment":4,
+      "title":"Light control",
+      "content":"<p class='article_cont_text'>Technology is integrated into life, mobile phones are remotely, and you are free to control your devices. As long as your mobile phone can connect to the Internet, you can control switches anywhere, even if you leave home, you can always check whether you forget the switch.</p><div class='article_cont_img'><img src='img/content/随心光控1.png' alt=''></div><p class='article_cont_text'>Punctuality, convenient and quick, want to eat a few points, a few baths, please gently press, these problems are all solved...</p><div class='article_cont_img'><img src='img/content/随心光控2.png' alt=''></div><p class='article_cont_text'>Intelligent timing, without good memory, can reasonably plan the time of electricity use</p><div class='article_cont_img'><img src='img/content/随心光控3.png' alt=''></div><p class='article_cont_text'>Multi - person access, sharing intelligence;</p><div class='article_cont_img'><img src='img/content/随心光控4.png' alt=''></div>"
+    },
+    {
+      "id":10011,
+      "upperId":1002,
+      "UserHeaderUrl":"img/banner/header.jpeg",
+      "UserName":"kiyo_妍",
+      "Time":"01-02",
+      "SeeNumber":20,
+      "SeeTitle":"Read",
+      "likeArticles":25,
+      "comment":5,
+      "title":"The light of colourful Ryukyu and the wisdom of the Ryukyu",
+      "content":"<p class='article_cont_text'>Light effect design new through exquisite design, shine on the cover, contained in the glass in the gorgeous colors, free rotation, showing the artistic beauty and imagination, let your environment and the surrounding atmosphere calm and quiet, the heart which, at the same time into the endless inspiration and wisdom, for you do not understand smooth, impervious, a moment is lost.</p><div class='article_cont_img'><img src='img/content/凤凰于飞1.jpg' alt=''></div><p class='article_cont_text'>According to dazzling Yuncheng, full play streamer, mysterious characteristics three thousand years process glass contains, through dazzling brilliance to temporarily put full, life and growth in nature operation, always keep the debugging environment and atmosphere</p><div class='article_cont_img'><img src='img/content/凤凰于飞2.jpg' alt=''></div><p class='article_cont_text'>No desire to view the wonderful, often have to view the micro, heart quiet Nuona, worry is far-reaching strategy, wise operation without boundary;</p><div class='article_cont_img'><img src='img/content/凤凰于飞3.jpg' alt=''></div><p class='article_cont_text'>Ingenuity, experience Cuilian and put it from the Millennium Jiapin; glass and logs, process and details of the more than 10, pure handmade fine grinding, 1400 degrees high temperature firing, a touch;</p><div class='article_cont_img'><img src='img/content/凤凰于飞4.jpg' alt=''></div><p class='article_cont_text'>WiFi fast access technology, fast connection, convenient control. Self owned patented light control technology: switching the scene by physical switch, double click switch for scene switching.<br>Support mobile APP control, APP compatible Android and apple system.<br>Brightness adjustment, color adjustment, support 16 million 700 thousand color changes.<br>Different lighting effects can be set (special effects include light, light, breath, flicker)<br>Game interaction, leisure and wisdom<br>Timing and event alerts can be set<br>Support remote control<br>Support group control, APP can control multiple intelligent glaze lamps simultaneously<br>It can be controlled by multiple mobile terminals at the same time<br>Support STA and AP work patterns</p><div class='article_cont_img'><img src='img/content/凤凰于飞5.jpg' alt=''></div>"
+    },
+    {
+      "id":10013,
+      "upperId":1003,
+      "UserHeaderUrl":"img/banner/header5.jpg",
+      "UserName":"Moer浅小默",
+      "Time":"01-02",
+      "SeeNumber":20,
+      "SeeTitle":"Read",
+      "likeArticles":30,
+      "comment":6,
+      "title":"Millions of blooms are only for a long time",
+      "content":"<p class='article_cont_text'>Light and soft Wen Tian emotions melted into dazzling colors, to render Home Furnishing life embellishment, clean and simple shape space. The icing on the cake...</p><div class='article_cont_img'><img src='img/content/万卷辰星1.png' alt=''></div><p class='article_cont_text'>Can you love the way the stars from home, readily open the switch is more close to the heart of freedom, lights out travel, follow your bliss summoned this moment mood, let the family also feel your emotion;</p><div class='article_cont_img'><img src='img/content/万卷辰星2.png' alt=''></div><p class='article_cont_text'>Transform scenarios, different models, a smart and pretty interesting lamp can add color to the home, let a little corner full of warmth and personality</p><div class='article_cont_img'><img src='img/content/万卷辰星1.png' alt=''></div><p class='article_cont_text'>LIGHT adjust the brightness of light gradually, the brightest and most dim and dark (four brightness stalls) <br>COLOR color change color: short press button each time the cycle of change color (red orange yellow green blue violet)<br>MODE - special effect short according to change special effect: each button once a light effect cycle change (streamer, breath, flicker, often bright)<br>ON/OFF -- power switch double click to switch scenes: turn on the lights, turn off the lights, turn the lights into red, yellow and green alternately, restore the factory settings, press the lights turn green, switch to AP mode.</p><div class='article_cont_img'><img src='img/content/万卷辰星4.png' alt=''></div>"
+    },
+    {
+      "id":10014,
+      "upperId":1004,
+      "UserHeaderUrl":"img/banner/header4.jpg",
+      "UserName":"RoyalDragon",
+      "Time":"01-02",
+      "SeeNumber":20,
+      "SeeTitle":"Read",
+      "likeArticles":40,
+      "comment":3,
+      "title":"Millions of blooms are only for a long time",
+      "content":"<p class='article_cont_text'>The flow of color, life, environment, and flow</p><div class='article_cont_img'><img src='img/content/东方神韵1.png' alt=''></div><p class='article_cont_text'>Colorful changes, pleasant, self transformation, wise</p><div class='article_cont_img'><img src='img/content/东方神韵3.png' alt=''></div><p class='article_cont_text'>Tens of millions of colors, color change, financial resources rolling, great industry evergreen</p><div class='article_cont_img'><img src='img/content/东方神韵4.png' alt=''></div><p class='article_cont_text'>Multi light effects, the circulation of a wind, hail, good luck</p><div class='article_cont_img'><img src='img/content/东方神韵2.png' alt=''></div>"
+    }
+  ]
+}
+
+

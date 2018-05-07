@@ -1,0 +1,175 @@
+﻿{
+  "numBer":30,
+  "cn": [
+    {
+      "topTitle":"热门评论",
+      "hasComments":"条评论",
+      "fotTitle":"继续查看更多评论",
+      "allTitle":"全部评论",
+      "replyTitle":"回复",
+      "commentText" :"写评论...",
+      "buttonText": "发布",
+      "userName": "落日余晖",
+      "userHeader":"img/banner/header2.jpg",
+      "commentTime": "01-02",
+      "hoursTime":"15:30",
+      "reply": 1,
+      "content":"情怀大于价值！",
+      "fabulous":3,
+      "replyContent":[
+        {
+          "replyUserName": "醉倾城",
+          "replyCommentTime": "01-02",
+          "replyHoursTime":"16:00",
+          "replyContent":"值得拥有！"
+        }
+      ]
+    },
+    {
+      "topTitle":"热门评论",
+      "hasComments":"条评论",
+      "fotTitle":"继续查看更多评论",
+      "allTitle":"全部评论",
+      "replyTitle":"回复",
+      "commentText" :"写评论...",
+      "buttonText": "发布",
+      "userName": "残阳如雪",
+      "userHeader":"img/banner/header3.jpg",
+      "commentTime": "01-02",
+      "hoursTime":"15:50",
+      "reply": 3,
+      "content":"完美的黑科技",
+      "fabulous":5,
+      "replyContent":[
+        {
+          "replyUserName": "懒猫",
+          "replyCommentTime": "01-02",
+          "replyHoursTime":"17:00",
+          "replyContent":"用的就是爽"
+        },
+        {
+          "replyUserName": "晴天",
+          "replyCommentTime": "01-02",
+          "replyHoursTime":"17:00",
+          "replyContent":"不同的心境不同的灯光。"
+        },
+        {
+          "replyUserName": "Forgotten",
+          "replyCommentTime": "01-02",
+          "replyHoursTime":"17:00",
+          "replyContent":"好产品，用着感觉就是不一样；"
+        }
+      ]
+    },
+    {
+      "topTitle":"热门评论",
+      "hasComments":"条评论",
+      "fotTitle":"继续查看更多评论",
+      "allTitle":"全部评论",
+      "replyTitle":"回复",
+      "commentText" :"写评论...",
+      "buttonText": "发布",
+      "userName": "时间都去哪了",
+      "userHeader":"img/banner/header6.jpg",
+      "commentTime": "01-03",
+      "hoursTime":"09:20",
+      "reply": 1,
+      "content":"灯光随意切换，高端而不失内涵，就这么完美！灯光随意切换，高端而不失内涵，就这么完美",
+      "fabulous":10,
+      "replyContent":[
+        {
+          "replyUserName": "老司机",
+          "replyCommentTime": "01-03",
+          "replyHoursTime":"13:00",
+          "replyContent":"不错！不错！值得拥有,大气 霸气；"
+        }
+      ]
+    }
+  ],
+  "en": [
+    {
+      "topTitle":"Hot comments",
+      "hasComments":"comments",
+      "fotTitle":"Continue to look at more comments",
+      "allTitle":"All Comments",
+      "replyTitle":"Reply",
+      "commentText" :"Write a comment...",
+      "buttonText": "Release",
+      "userName": "H.Rosa 、Star",
+      "userHeader":"img/banner/header2.jpg",
+      "commentTime": "01-02",
+      "hoursTime":"15:30",
+      "reply": 1,
+      "content":"Love is greater than value!",
+      "fabulous":3,
+      "replyContent":[
+        {
+          "replyUserName": "Sake",
+          "replyCommentTime": "01-02",
+          "replyHoursTime":"16:00",
+          "replyContent":"It's worth having!"
+        }
+      ]
+    },
+    {
+      "topTitle":"Hot comments",
+      "hasComments":"comments",
+      "fotTitle":"Continue to look at more comments",
+      "allTitle":"All Comments",
+      "replyTitle":"Reply",
+      "commentText" :"Write a comment...",
+      "buttonText": "Release",
+      "userName": "Cure",
+      "userHeader":"img/banner/header3.jpg",
+      "commentTime": "01-02",
+      "hoursTime":"15:50",
+      "reply": 3,
+      "content":"Perfect black Technology",
+      "fabulous":5,
+      "replyContent":[
+        {
+          "replyUserName": "Moumoon",
+          "replyCommentTime": "01-02",
+          "replyHoursTime":"17:00",
+          "replyContent":"It's good to use"
+        },
+        {
+          "replyUserName": "The",
+          "replyCommentTime": "01-02",
+          "replyHoursTime":"17:00",
+          "replyContent":"Different lights with different mood."
+        },
+        {
+          "replyUserName": "Forgotten",
+          "replyCommentTime": "01-02",
+          "replyHoursTime":"17:00",
+          "replyContent":"Good products, with the feeling is different;"
+        }
+      ]
+    },
+    {
+      "topTitle":"Hot comments",
+      "hasComments":"comments",
+      "fotTitle":"Continue to look at more comments",
+      "allTitle":"All Comments",
+      "replyTitle":"Reply",
+      "commentText" :"Write a comment...",
+      "buttonText": "Release",
+      "userName": "Terry",
+      "userHeader":"img/banner/header6.jpg",
+      "commentTime": "01-03",
+      "hoursTime":"09:20",
+      "reply": 1,
+      "content":"Light switching, high end and no loss of connotation, it is so perfect! Light switch, high end and no loss of connotation, it is so perfect",
+      "fabulous":10,
+      "replyContent":[
+        {
+          "replyUserName": "Sabri",
+          "replyCommentTime": "01-03",
+          "replyHoursTime":"13:00",
+          "replyContent":"Pretty good！ Pretty good！ It is worth having, high end, air and top grade."
+        }
+      ]
+    }
+  ]
+}

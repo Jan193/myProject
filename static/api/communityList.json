@@ -1,0 +1,118 @@
+﻿{
+  "wrroeCode":0,
+  "msg":"",
+  "cn":[
+    {
+      "id":1001,
+      "title":"随心光控技术",
+      "imgUrl":"img/banner/随心光控.png",
+      "short":"智能照明时代，通过手机app来切换灯光场景.",
+      "createTime":"01-02",
+      "publisher":"W泰霖",
+      "visitCount":100,
+      "likeCount":50,
+      "LanguageCode":"cn"
+    },
+    {
+      "id":1002,
+      "title":"凤凰于飞",
+      "imgUrl":"img/banner/凤凰于飞.png",
+      "short":"彩炫琉光不息，通达智慧运无边",
+      "createTime":"01-02",
+      "publisher":"kiyo_妍",
+      "visitCount":120,
+      "likeCount":88,
+      "LanguageCode":"cn"
+    },
+    {
+      "id":1003,
+      "title":"万卷辰星",
+      "imgUrl":"img/banner/banner8.jpg",
+      "short":"溢彩起琉光，炫彩照运程",
+      "createTime":"01-02",
+      "publisher":"Moer浅小默",
+      "visitCount":200,
+      "likeCount":31,
+      "LanguageCode":"cn"
+    },
+    {
+      "id":1004,
+      "title":"东方神韵",
+      "imgUrl":"img/banner/陶瓷灯_S.jpg",
+      "short":"品味生活，低调而不失儒雅",
+      "createTime":"01-02",
+      "publisher":"RoyalDragon",
+      "visitCount":210,
+      "likeCount":152,
+      "LanguageCode":"cn"
+    }
+  ],
+  "en":[
+    {
+      "id":1001,
+      "title":"Random control technology",
+      "imgUrl":"img/EN/1468983059.jpg",
+      "short":"Switching light scenes through mobile app in the age of intelligent lighting.",
+      "createTime":"01-02",
+      "publisher":"W泰霖",
+      "visitCount":100,
+      "likeCount":50,
+      "LanguageCode":"en"
+    },
+    {
+      "id":1002,
+      "title":"The two phoenixes fly side by side",
+      "imgUrl":"img/EN/1480059068_b.jpg",
+      "short":"There is no interest in the glory of the color, and the wisdom has no side.",
+      "createTime":"01-02",
+      "publisher":"kiyo_妍",
+      "visitCount":120,
+      "likeCount":88,
+      "LanguageCode":"en"
+    },
+    {
+      "id":1003,
+      "title":"Rolls of stars",
+      "imgUrl":"img/EN/1502867349_b.jpg",
+      "short":"Full play Liu colorful light, according to fortune",
+      "createTime":"01-02",
+      "publisher":"Moer浅小默",
+      "visitCount":200,
+      "likeCount":31,
+      "LanguageCode":"en"
+    },
+    {
+      "id":1004,
+      "title":"Le Son de Soie",
+      "imgUrl":"img/EN/1506505594.jpg",
+      "short":"The taste of life, low-key and graceful",
+      "createTime":"01-02",
+      "publisher":"RoyalDragon",
+      "visitCount":210,
+      "likeCount":152,
+      "LanguageCode":"en"
+    },
+    {
+      "id":1005,
+      "title":"Le Son de Soie",
+      "imgUrl":"img/EN/1501749436_b.jpg",
+      "short":"The taste of life, low-key and graceful",
+      "createTime":"01-02",
+      "publisher":"RoyalDragon",
+      "visitCount":210,
+      "likeCount":152,
+      "LanguageCode":"en"
+    },
+    {
+      "id":1006,
+      "title":"Le Son de Soie",
+      "imgUrl":"img/EN/1469239978.jpg",
+      "short":"The taste of life, low-key and graceful",
+      "createTime":"01-02",
+      "publisher":"RoyalDragon",
+      "visitCount":210,
+      "likeCount":152,
+      "LanguageCode":"en"
+    }
+  ]
+}
